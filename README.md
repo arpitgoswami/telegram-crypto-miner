@@ -27,3 +27,4 @@ Key Features:
 10. Multilingual Support: The bot will provide multilingual support to cater to users from various regions, ensuring a broader user base.
 
 By developing this Telegram bot for crypto mining, users will have the convenience of accessing mining activities directly from their preferred messaging platform. It will simplify the process of participating in cryptocurrency mining and provide a centralized interface for users to manage their mining activities and earnings across multiple cryptocurrencies.
+
