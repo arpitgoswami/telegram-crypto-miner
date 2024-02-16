@@ -1,5 +1,3 @@
-
-
 # Telegram Bot for Crypto Mining
 
 The project aims to develop a Telegram bot that enables users to engage in cryptocurrency mining directly through the messaging platform. The bot will provide a user-friendly interface for users to participate in mining activities and earn rewards from various cryptocurrencies.
